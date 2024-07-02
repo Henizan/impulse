@@ -1,0 +1,72 @@
+body {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+  }
+
+  .card{
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    display: flex;
+
+  }
+
+  .logo-head{
+    height: 100px;
+    width: auto;
+  }
+
+  .head{
+    padding: 20px;
+    margin-top: 0;
+    border: 1px solid #d0d0d0;
+    background-color: #f1f1f1;
+  }
+
+  .selection{
+    text-decoration: none;
+    color: black;
+    margin-left: 2em;
+  }
+
+  .structure{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: 35px;
+    margin-bottom: 55px;
+    width: fit-content;
+    border: 1px solid #d0d0d0;
+    background-color: #f1f1f1;
+    display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   line-height: 7px;
+  }
+
+  .semaine{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: fit-content;
+    border: 1px solid #d0d0d0;
+    background-color: #f1f1f1;
+    flex-direction: column;
+   align-items: flex-start;
+   line-height: 8px;
+  }
+
+  .liste{
+    line-height: 25px;
+  }
+  .title-card{
+    line-height: 7px;
+  }
+
+  .progsemaine{
+    
+  }
